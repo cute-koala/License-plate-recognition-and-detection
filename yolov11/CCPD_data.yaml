@@ -1,0 +1,6 @@
+path: E:/experiment/python/plate_id/dataset # 数据集的根目录, 建议使用绝对路径
+train: ImageSets/train.txt
+val: ImageSets/val.txt
+
+nc: 1
+names: ['single']
